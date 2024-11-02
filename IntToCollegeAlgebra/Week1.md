@@ -1,7 +1,7 @@
-Exploring; real numbers, exponents, polynomials and rational expressions
 
-equations, inequalities, functions, linears functions,
-
-By the end of the topic:
-
-Utilizing exponent rules to simplify expressions and converting numbers into scientific notation.
+1.1 Real Numbers: Algebra Essentials
+1.2 Exponents and Scientific Notation
+1.3 Radicals and Rational Exponents
+1.4 Polynomials
+1.5 Factoring Polynomials
+1.6 Rational Expressions
